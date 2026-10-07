@@ -1,0 +1,4 @@
+from_stage,to_stage,users_entering,users_advancing,users_dropped,conversion_rate_pct,drop_off_rate_pct
+visit,signup,20000,8678,11322,43.39,56.61
+signup,cart,8678,4931,3747,56.82,43.18
+cart,purchase,4931,2158,2773,43.76,56.24

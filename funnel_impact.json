@@ -1,0 +1,9 @@
+{
+  "weakest_transition": "visit -> signup",
+  "current_drop_off_pct": 56.61,
+  "hypothetical_improvement_pp": 10,
+  "additional_users_advancing": 2000,
+  "estimated_additional_purchases": 497,
+  "assumed_avg_order_value": 55.0,
+  "estimated_additional_revenue": 27335.0
+}
